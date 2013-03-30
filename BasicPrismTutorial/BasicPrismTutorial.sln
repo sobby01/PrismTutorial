@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicPrismTutorial", "BasicPrismTutorial\BasicPrismTutorial.csproj", "{BFBA88C5-F877-484D-A115-09C0FE584BCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismModule", "PrismModule\PrismModule.csproj", "{DE43E1D9-854C-4C06-9FE6-2063718E4F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismUtilities", "PrismUtilities\PrismUtilities.csproj", "{5930949A-F1F6-4A98-A916-FA2CE39CC415}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{BFBA88C5-F877-484D-A115-09C0FE584BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFBA88C5-F877-484D-A115-09C0FE584BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFBA88C5-F877-484D-A115-09C0FE584BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE43E1D9-854C-4C06-9FE6-2063718E4F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE43E1D9-854C-4C06-9FE6-2063718E4F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE43E1D9-854C-4C06-9FE6-2063718E4F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE43E1D9-854C-4C06-9FE6-2063718E4F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5930949A-F1F6-4A98-A916-FA2CE39CC415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5930949A-F1F6-4A98-A916-FA2CE39CC415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5930949A-F1F6-4A98-A916-FA2CE39CC415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5930949A-F1F6-4A98-A916-FA2CE39CC415}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
